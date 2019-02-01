@@ -1,4 +1,4 @@
-// thnks for this lab ..
+
 var customerName = 'bob'
 const leastFavoriteCustomer = 'sour fred'
 
